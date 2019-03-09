@@ -1,0 +1,17 @@
+.Characters {
+    /* border: 10px solid red; */
+}
+
+.Character {
+    /* border: 10px solid green; */
+    justify-content: space-between;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.Character:hover {
+    visibility: visible;
+    color: yellow;
+}
