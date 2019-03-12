@@ -1,5 +1,7 @@
 # Sprint Challenge: React - Star Wars
 
+
+
 This challenge allows you to practice the concepts and techniques learned over the past Sprint and apply them in a concrete project. This Sprint explored ReactJS, Functional Components and Class Components. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web and style that data nicely on the page.
 
 ## Instructions
@@ -90,9 +92,9 @@ Your data set will look like this:
 
 Your finished project must include all of the following requirements:
 
-- [ ] A list of Star Wars Characters rendered to the screen.
-- [ ] You must have at least one list element for each star wars character in the data set.
-- [ ] The list elements must all be styled beyond the basic
+- [X] A list of Star Wars Characters rendered to the screen.
+- [X] You must have at least one list element for each star wars character in the data set.
+- [X] The list elements must all be styled beyond the basic
 
 In your solution, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts to much and does not.
 
